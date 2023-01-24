@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.planvest.app",
+      "sha256_cert_fingerprints": ["FC:C2:3A:97:31:36:76:EA:6B:71:B1:07:6F:E8:A3:C5:E6:3D:04:2E:FD:5B:7B:B4:70:B1:C5:E6:60:49:32:04"]
+    }
+  }
+]

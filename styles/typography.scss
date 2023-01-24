@@ -1,0 +1,91 @@
+@import "variables.module.scss";
+
+
+
+.title-dark {
+  font-size: 3.6rem;
+  color: $color-primary-dark;
+  font-family: $font-primary;
+}
+.title-light {
+  font-size: 3.6rem;
+  font-weight: 700;
+  color: $color-primary-white;
+  font-family: $font-primary;
+}
+.maxi-title-light {
+  font-size: 4rem;
+  font-weight: 700;
+  color: $color-primary-white;
+  font-family: $font-primary;
+}
+.sub-title-dark {
+  font-size: 3.2rem;
+  // color: $color-primary-dark;
+  font-family: $font-primary;
+    @media (max-width: 600px) {
+     font-size: 2.4rem;
+    }
+  // @media (xs) {
+  //   font-size: 2.4rem;
+  // }
+  // @media (xl) {
+  //   font-size: 9.4rem;
+  // }
+}
+.sub-title-light {
+  font-size: 3.4rem;
+  font-weight: 700;
+  color: $color-primary-white;
+  font-family: $font-primary;
+
+}
+.body1_dark {
+  font-size: 2.3rem;
+  color: $color-primary-dark;
+  font-family: $font-primary;
+}
+.body1_mid {
+  font-size: 2.3rem;
+  color: $color-label;
+  font-family: $font-primary;
+}
+.body1_light {
+  font-size: 2.3rem;
+  font-family: $font-primary;
+  color: $color-primary-white;
+}
+.body2_nude {
+  font-size: 2.0rem;
+  // color: $color-nude;
+  font-family: $font-primary;
+}
+.body2_dark {
+  font-size: 2.0rem;
+  // color: $color-primary-dark;
+  font-family: $font-primary;
+}
+.body3_light {
+  font-size: 1.8rem;
+  font-weight: 300px;
+  // color: $color-primary-dark;
+  font-family: $font-primary;
+}
+.body3_dark {
+  font-size: 1.8rem;
+  // color: $color-dark;
+  font-family: $font-primary;
+}
+.small_footer {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: $color-primary-white;
+  font-family: $font-secondary;
+}
+
+.h2 {
+  font-size: 2.4rem;
+  color: $color-primary-dark;
+}
+
+

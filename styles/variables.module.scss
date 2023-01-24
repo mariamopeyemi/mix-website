@@ -1,0 +1,43 @@
+$color-primary-main: #137c4b;
+$color-primary-light: #c2e3d4;
+$color-primary-dark: #1d1d1d;
+$color-primary-white: #fff;
+$color-label: #9999b4;
+$color-text: #666668;
+$color-error: #c31331;
+$color-error-light: rgba(195, 19, 48, 0.151);
+$color-warn: #ff7115;
+$color-warn-light: rgba(255, 114, 20, 0.199);
+$color-bg: #f0f2f5;
+$color-input: #f0f2f3;
+$color-border: #ebebeb;
+
+$font-primary: "Inter", sans-serif;
+$font-secondary: "Rubik", "Plus Jakarta Sans", sans-serif;
+
+$border-radius-primary: 0.8rem;
+$border-radius-secondary: 1.6rem;
+
+$height-btn: 4.8rem;
+$height-input: 5.6rem;
+// $height-input: var(--height-input);
+
+:export {
+  colorPrimary: $color-primary-main;
+  colorPrimaryDark: $color-primary-dark;
+  colorLabel: $color-label;
+  colorText: $color-text;
+  colorError: $color-error;
+  colorErrorLight: $color-error-light;
+  colorBorder: $color-border;
+  colorInput: $color-input;
+
+  borderRadiusPrimary: $border-radius-primary;
+  borderRadiusSecondary: $border-radius-secondary;
+
+  heightInput: $height-input;
+  heightBtn: $height-btn;
+
+  fontPrimary: $font-secondary;
+  fontSecondary: $font-secondary;
+}

@@ -1,0 +1,12 @@
+FOR SAVINGS 
+work on form validation;
+validate create fixed and goal savings
+validate members... all 3 forms
+get value from duration dropdown DONE
+Why is the dropdown not getting values?
+work on file upload
+
+
+WORK ON MEMBERS
+update the members
+delete

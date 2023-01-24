@@ -1,0 +1,47 @@
+{
+  "name": "yebox",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@date-io/moment": "^2.15.0",
+    "@emotion/cache": "latest",
+    "@emotion/react": "^11.10.0",
+    "@emotion/server": "latest",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/lab": "^5.0.0-alpha.94",
+    "@mui/material": "^5.10.0",
+    "@mui/x-date-pickers": "^5.0.0-beta.6",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5",
+    "formik": "^2.2.9",
+    "framer-motion": "^7.1.1",
+    "javascript-time-ago": "^2.5.7",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "next": "12.2.5",
+    "prop-types": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-number-format": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "vercel": "^28.4.12",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "sass": "^1.54.4",
+    "tailwindcss": "^3.1.8"
+  }
+}

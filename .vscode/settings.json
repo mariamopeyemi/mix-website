@@ -1,0 +1,5 @@
+{
+    "eslint.format.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.alwaysShowStatus": true
+}
